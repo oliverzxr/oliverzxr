@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rodrigo Oliveira
 
-<!--
-**oliverzxr/oliverzxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **Federal University of Alagoas (UFAL)**, Brazil.
 
-Here are some ideas to get you started:
+Currently focused on strengthening my programming fundamentals and learning JavaScript, TypeScript, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in building reliable applications, understanding software architecture, and solving real-world problems.
+
+## Education
+
+- B.Sc. in Computer Science — UFAL (in progress)
+- Systems Analysis and Development — Anhanguera (in progress)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rodrigo-oliveira-95944b332/)
