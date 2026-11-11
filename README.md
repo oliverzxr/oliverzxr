@@ -1,11 +1,10 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oliverzxr/oliverzxr/main/oliver-banner.gif" width="100%" alt="Oliver coding on a rainy night — pixel art animation" />
+<img src="https://raw.githubusercontent.com/oliverzxr/oliverzxr/main/oliver-banner.gif" width="100%" alt="Oliver coding on a rainy night — animated pixel art" />
 
 # hey, i'm oliver!
 
-**computer science @ UFAL · brazil**
+**computer science student @ UFAL · brazil**
 
 *building things, breaking them, figuring out why.*
 
@@ -17,18 +16,15 @@
 
 i'm a computer science student at the **Federal University of Alagoas (UFAL)**, also studying systems analysis and development at Anhanguera.
 
-i'm interested in web development and software engineering, with a focus on strengthening my fundamentals and building my own applications.
+interested in web development and software engineering, with a focus on building applications and understanding how things work.
 
 ## what i'm building
 
 ### [workout tracker](https://github.com/oliverzxr/workout-tracker)
 
-a personal project exploring workout tracking and training data.
+a personal project exploring workout tracking, training data and performance analysis.
 
-currently implemented:
-- workout set counting
-- volume load calculations
-- automated tests with Node.js
+**stack:** JavaScript · Node.js
 
 ## tech & tools
 
@@ -42,4 +38,3 @@ currently implemented:
 
 - **computer science** — Federal University of Alagoas (UFAL)
 - **systems analysis & development** — Anhanguera
-
