@@ -9,7 +9,7 @@
 
 *building things, breaking them, figuring out why.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-631C2B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-oliveira-95944b332/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-631C2B?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oliverzxr/)
 
 </div>
 
@@ -23,7 +23,7 @@ interested in web development and software engineering, with a focus on building
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,c,py,git&theme=dark" alt="JavaScript, Node.js, C, Python and Git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,sqlite,c,py,git,githubactions,vercel&theme=dark" alt="JavaScript, TypeScript, React, Node.js, SQLite, C, Python, Git, GitHub Actions and Vercel" />
 
 </div>
 
